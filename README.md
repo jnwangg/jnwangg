@@ -1,8 +1,8 @@
 # Hi there 👋
 
-[![Email](https://img.shields.io/badge/Email-zwang474%40usc.edu-blue?logo=maildotru&logoColor=white&labelColor=344e41&color=ffffff)](zwang474@usc.edu)
+![Email](https://img.shields.io/badge/Email-zwang474%40usc.edu-blue?logo=maildotru&logoColor=white&labelColor=344e41&color=ffffff)
 &emsp;
-[![Linkedin](https://img.shields.io/badge/Linkedin-Justin%20Wang-blue?logo=linkedin&labelColor=0077b5&color=ffffff)](www.linkedin.com/in/justin-wangg)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Justin%20Wang-blue?logo=linkedin&labelColor=0077b5&color=ffffff)](https://www.linkedin.com/in/justin-wangg)
 
 ### 🤖 Justin Wang
 Third-year undergraduate researcher investigating the genomic regulatory networks that drive human ovarian aging as a part of the [Benayoun Lab](https://gero.usc.edu/labs/benayounlab/). 
